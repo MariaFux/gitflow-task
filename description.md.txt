@@ -1,0 +1,20 @@
+# Name:
+HP
+# Description:
+Hewlett-Packard model **Pavilion-g6**
+# Specifications:
+Size|Weight
+----|------
+376x244x36.3|2480g
+# Photo with descriptions:
+![HP Pavilion-g6](/images/hp.jpg)
+Format: ![Alt Text](url)
+CPU|
+---|---
+Platform|AMD Comal
+CPU|AMD A4
+CPU Model|AMD A4 4300M
+Number of cores|2
+TDP|35
+# Similar devices
+[HP OMEN](https://store.hp.com/us/en/slp/omen-gaming/laptops)
